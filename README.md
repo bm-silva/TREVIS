@@ -11,3 +11,5 @@ This tool allows data visualization and interaction related to transcriptomes as
 * Vizualize and interact with expression data graphs;
 * Get all data related to a specific transcript/gene;
 * Run a Diamond BlastP/BlastX in all assembled transcriptomes.
+
+You can find all information about this tool in our [Wiki page](https://github.com/bm-silva/drafts/wiki)
