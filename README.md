@@ -1,6 +1,8 @@
 # Introduction
 
-This work was developed by FAPEMIG scholarship holder [Bruno M. Silva](http://lattes.cnpq.br/7610286860591449) and by professor [J. Miguel Ortega](https://orcid.org/0000-0002-8047-9191) from Federal University of Minas Gerais. The web tool was made in collaboration with [Romildo Oliveira](https://github.com/MildoDev). Check out our work: bioinfo.icb.ufmg.br/trevis/
+This work was developed by FAPEMIG scholarship holder [Bruno M. Silva](http://lattes.cnpq.br/7610286860591449) and by professor [J. Miguel Ortega](https://orcid.org/0000-0002-8047-9191) from Federal University of Minas Gerais. The web tool was made in collaboration with [Romildo Oliveira](https://github.com/MildoDev). 
+
+Check out our work: bioinfo.icb.ufmg.br/trevis/
 
 This tool allows data visualization and interaction related to transcriptomes assemblies and the expression levels of transcribed genes of many organisms. We have the following functions available:
 
